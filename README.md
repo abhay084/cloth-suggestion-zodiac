@@ -28,12 +28,10 @@ Enhance your aura with personalized clothing suggestions based on your **birth d
 ---
 
 ## 📦 Project Structure
-` cd Backend
-  cargo run
-`
+` cd Backend`
+  `cargo run`
 
 ## For FrontEnd
-` cd FrontEnd
-  npm install
-  npm start
-`
+` cd FrontEnd `
+  `npm install`
+ ` npm start`
