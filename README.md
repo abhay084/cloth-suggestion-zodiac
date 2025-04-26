@@ -35,3 +35,14 @@ Enhance your aura with personalized clothing suggestions based on your **birth d
 ` cd FrontEnd `
   `npm install`
  ` npm start`
+
+## Example Postman API
+`
+curl --location 'http://127.0.0.1:3000/get_zodiac' \
+--header 'Content-Type: application/json' \
+--data '{
+    "dob": "1990-07-21",
+    "skin_tone": "dark"
+}
+'
+`
